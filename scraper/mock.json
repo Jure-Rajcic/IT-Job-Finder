@@ -1,0 +1,97 @@
+[
+    {
+        "facebookUrl": "https://www.facebook.com/groups/2158108910905022",
+        "url": "https://www.facebook.com/groups/2158108910905022/permalink/7394825017233359/",
+        "time": "2024-04-18T11:26:04.000Z",
+        "user": {
+            "id": "pfbid02ffrvgf9byVFrZPjgdCkfFNgHcegd8GUs8VbJ4Y4ZsGkSXcZGmMvKGw3MYZFD4vbel",
+            "name": "Dean Novački",
+            "profileUrl": null,
+            "profilePic": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/407786458_10232334371050066_1365662372361231444_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5BjMMRVY7HQAb4DlcK0&_nc_ht=scontent-dfw5-1.xx&oh=00_AfAjl5hIxeqL_XRaRxVTYUlNsa_PBYKUg2Lk7UTUxBVxEA&oe=6627089C"
+        },
+        "text": "Pozdrav\n\nZapošljavamo softverskog inženjera/developera s iskustvom u Pythonu za rad od kuće u punom radnom vremenu. Poželjno je iskustvo rada u Blenderu. Neto plaća: 1500-2000 eura. [info@redcat.hr](mailto:info@redcat.hr)",
+        "link": "http://redcat.hr/",
+        "feedbackId": "ZmVlZGJhY2s6NzM5NDgyNTAxNzIzMzM1OQ==",
+        "id": "UzpfSTE0NzgxNzg4MDU6Vks6NzM5NDgyNTAxNzIzMzM1OQ==",
+        "legacyId": "7394825017233359",
+        "title": "www.redcat.hr",
+        "attachments": [
+            {
+                "call_to_action_renderer": null,
+                "source": {
+                    "text": "redcat.hr"
+                },
+                "target": {
+                    "__typename": "ExternalUrl",
+                    "article_author": null,
+                    "id": "226547524203272:10232896139173918"
+                },
+                "story_attachment_link_renderer": {
+                    "__typename": "StoryAttachmentGenericLinkRenderer",
+                    "attachment": {
+                        "web_link": {
+                            "__typename": "ExternalWebLink",
+                            "url": "http://redcat.hr/",
+                            "fbclid": null,
+                            "lynx_mode": "ASYNCLAZY",
+                            "analytics_url": null,
+                            "destination_url": null
+                        },
+                        "action_links": [],
+                        "url": "https://l.facebook.com/l.php?u=http%3A%2F%2Fredcat.hr%2F&h=AT37lwFCVg-SUNN070NfXWyMFYlqTl8TtbPq1xRXufCWufU6SnDN_3C2dkWc-KDwEt84hf33KaGcmuF5W-nt2GvBeCBVwXiAM30Izcx9w0dZmNVggFKsaT1zmhmkMbIp7E7lYes3fZibA_aLlPFHd4-mUncfSepni1OI&s=1"
+                    },
+                    "__module_operation_CometFeedStoryLink_attachment": {
+                        "__dr": "CometFeedStoryGenericLink_story$normalization.graphql"
+                    },
+                    "__module_component_CometFeedStoryLink_attachment": {
+                        "__dr": "CometFeedStoryGenericLink.react"
+                    }
+                },
+                "title_with_entities": {
+                    "text": "www.redcat.hr"
+                }
+            }
+        ],
+        "likesCount": 2,
+        "sharesCount": 0,
+        "commentsCount": 0,
+        "facebookId": "2158108910905022"
+    },
+    {
+        "facebookUrl": "https://www.facebook.com/groups/2158108910905022",
+        "url": "https://www.facebook.com/groups/2158108910905022/permalink/7483299781719215/",
+        "time": "2024-04-18T08:03:05.000Z",
+        "user": {
+            "id": "pfbid02sxgBghwhHWQ5jjS5yMFru8NDwedSSEQKjLnQWC7k6rSSnjbNchWj6h2cJX796YPvl",
+            "name": "Flora Bloom",
+            "profileUrl": null,
+            "profilePic": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-1/381233647_10159651208708030_6104960596034157695_n.jpg?stp=c0.8.60.60a_cp0_dst-jpg_p60x60&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=axwLcEqttD0Ab74kvNB&_nc_ht=scontent-dfw5-2.xx&oh=00_AfC4UMWuNHI7Iij1HoLWqqXvZ7e3xVMU1iK_M3IZCaLq1Q&oe=6626F157"
+        },
+        "text": "Za klijenta, internacionalnu kompaniju u pregrambenoj industriji, tražimo SAP Master Data Admina. Opis u nastavku.\nPredviđena plaća 2.500,00 - 3.000,00 bruto.\nRadi se iz ureda u Zagrebu.\n\nAko vam je pozicija zanimljiva, pošaljite CV na engleskom na ana.kopilas@office-people.hr. :) \n\nWhat is the role we expect to fill:\n• Management of Master Data in the SAP system in all Company sites: Input, \nMaintenance etc.;\n• Participate in the development of new products;\n• Customer, Product and Vendor Master Data;\n• Translating the needs of the product managers and the recipes of the new \nproducts into SAP;\n• Provide input to implement general product improvements.\n\nWhat skills and qualities do you bring to the table:\n• You are a positive, down to earth person;\n• An outspoken passion for the food industry;\n• SAP Master Data knowledge;\n• Excel skills (formulas, lookups,…);\n• Data visualization: PowerBI knowledge is a plus;\n• Analytical, critical and structured way of thinking and working;\n• Hands on mentality;\n• Very good communication skills;\n• Proficiency in English.",
+        "link": "https://www.facebook.com/photo.php?fbid=10159978875393030&set=gm.7483299781719215&type=3",
+        "feedbackId": "ZmVlZGJhY2s6NzQ4MzI5OTc4MTcxOTIxNQ==",
+        "id": "UzpfSTY1MjEwODAyOTpWSzo3NDgzMjk5NzgxNzE5MjE1",
+        "legacyId": "7483299781719215",
+        "attachments": [
+            {
+                "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/438885830_10159978875343030_460006099442397342_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4QYxkZBTYDoAb7Y0A23&_nc_ht=scontent-dfw5-2.xx&oh=00_AfBmn1Ky048mtHDP9AXr230NOdzxuTr8VJc2xxWCYuw8qA&oe=6627024C",
+                "__typename": "Photo",
+                "photo_image": {
+                    "uri": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/438885830_10159978875343030_460006099442397342_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4QYxkZBTYDoAb7Y0A23&_nc_ht=scontent-dfw5-2.xx&oh=00_AfBmn1Ky048mtHDP9AXr230NOdzxuTr8VJc2xxWCYuw8qA&oe=6627024C",
+                    "height": 480,
+                    "width": 509
+                },
+                "__isMedia": "Photo",
+                "accent_color": "FF00010E",
+                "photo_product_tags": [],
+                "url": "https://www.facebook.com/photo/?fbid=10159978875393030&set=gm.7483299781719215&idorvanity=2158108910905022",
+                "id": "10159978875393030",
+                "ocrText": "May be an image of text"
+            }
+        ],
+        "likesCount": 1,
+        "sharesCount": 0,
+        "commentsCount": 0,
+        "facebookId": "2158108910905022"
+    }
+]
