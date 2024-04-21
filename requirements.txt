@@ -1,0 +1,2 @@
+python-dotenv==0.20.0
+apify-client==3.0.0
