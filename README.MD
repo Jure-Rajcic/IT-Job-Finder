@@ -59,8 +59,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License 📜
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact 📬
-
-Project Link: [GitHub - ITJobFinder](https://github.com/yourusername/ITJobFinder)
-
